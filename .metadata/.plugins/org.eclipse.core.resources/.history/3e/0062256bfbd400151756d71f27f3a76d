@@ -1,0 +1,5 @@
+#Mon Feb 15 21:33:28 GMT 2016
+redeployment.enabled=true
+encoding=UTF-8
+domain=default
+config.resources=ftp_connector.xml
