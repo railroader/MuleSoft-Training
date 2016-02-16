@@ -1,3 +1,3 @@
 # MuleSoft-Training
 
-Repository where i can store my mulesoft traing source material
+Repository where i can store my mulesoft training source material
